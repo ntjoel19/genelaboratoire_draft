@@ -3,6 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     form.addEventListener('submit', (event) => {
         event.preventDefault(); // Prevent the form from submitting the traditional way
-        window.location.href = 'home.html'; // Redirect to the home page
+        window.location.href = 'room.html'; // Redirect to the home page
     });
 });
